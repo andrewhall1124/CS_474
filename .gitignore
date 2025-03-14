@@ -12,3 +12,5 @@ wheels/
 # Datasets
 sample_data/
 data/
+text_files/
+*.tar.gz
