@@ -14,3 +14,6 @@ sample_data/
 data/
 text_files/
 *.tar.gz
+
+# Results
+video/
